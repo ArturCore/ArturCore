@@ -1,4 +1,4 @@
-# Hi — I’m Artur Khlapuk
+# Hi — I’m Artur
 
 I can be useful in the following areas:
 
