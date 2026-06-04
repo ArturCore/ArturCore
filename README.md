@@ -1,19 +1,13 @@
-## Hi there 🫡
+# Hi — I’m Artur Khlapuk
 
-I'm Artur, software engineer based in Zurich.
+I can be useful in the following areas:
 
-I enjoy experimenting with small prototypes in business environments and automating manual processes that can be digitized.
-
-My main background is in backend development, system integration, and process automation. 
-
-### Tech Stack
-- **Languages & Frameworks:** C#, .NET, ASP.NET, JavaScript, T-SQL
-- **Databases:** MSSQL, PostgreSQL, MongoDB
-- **Integrations:** REST APIs, SOAP, RabbitMQ, JSON, XML, CSV
-- **Automation:** Corezoid, Node-RED, n8n
-- **DevOps:** Docker, Azure, Git, GitLab CI/CD, TeamCity, ArgoCD
-
-Most of my previous work was done in corporate banking environments under NDA, so I currently do not have many public repositories.
-
-However, I am open to new technologies, new challenges, and new ways of solving practical engineering problems. 
-I regularly improve my skills, experiment with new tools, and plan to add more public examples of projects, prototypes, and technical ideas here over time.
+- **Backend & Integration Engineer** — building .NET services, APIs, integrations, and reliable backend workflows.
+- **Process Automation Specialist** — automating manual business processes with APIs, databases, low-code tools, and workflow platforms.
+- **.NET Developer** — working with C#, .NET, ASP.NET, LINQ, REST/SOAP APIs, RabbitMQ, and SQL databases.
+- **Low-Code / Workflow Automation Developer** — designing automation flows with Corezoid, Node-RED, n8n, and business process logic.
+- **Application Support / Production Support Engineer** — troubleshooting production issues, analyzing incidents, supporting integrations, and writing runbooks.
+- **API & Data Flow Specialist** — connecting systems through REST, SOAP, RabbitMQ, JSON, XML, CSV, MSSQL, PostgreSQL, and MongoDB.
+- **Technical Team Lead** — coordinating developers, improving delivery processes, mentoring engineers, and translating business needs into technical tasks.
+- **Banking / Fintech Automation Engineer** — supporting business-critical financial workflows, transaction processes, integrations, and internal tools.
+- **Builder of Practical Prototypes** — experimenting with small tools and ideas that solve real business problems.
